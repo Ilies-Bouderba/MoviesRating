@@ -1,0 +1,5 @@
+RAW_DATA_PATH       = "../data/raw/monster_com-job_sample.csv"
+CLEANED_DATA_PATH   = "../data/cleaned/cleaned_monster_com_job_sample.csv"
+SECTOR_JOB_PATH     = "../data/final/most_sector_jobs.csv"
+TOP_ORGS_PATH       = "../data/final/top_orgs_jobs.csv"
+ANALYZE_JOB_PATH    = "../data/final/analyze_jobs.csv"
